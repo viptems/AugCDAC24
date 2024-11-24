@@ -1,5 +1,5 @@
 class javaDemo{
-psvm(){
+public static void main(String args[]){}
 
 
 
